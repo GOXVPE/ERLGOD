@@ -1,6 +1,6 @@
 Для трансляции видео WebRTC нужно:
 1) Запустить проект Unity
-2) В папке проекта перейти по пути \BPLA\Assets\bin~ и запустить webserver.exe, выбрать доступный сервер
+2) В папке проекта перейти по пути \BPLA\UnityRenderStreaming-1.1.1-preview и запустить test_webapp.cmd, выбрать доступный сервер
    ![image](https://github.com/user-attachments/assets/2e85b1e2-b93a-4090-84ec-89f7b3b04c15)
 4) Вернуться в юнити, в панели Hierarchy нажать на RenderStreaming, с правой стороны откроется окно Inspector, в котором в поле Url Signaling вставить выбранный адресс.
    ![image](https://github.com/user-attachments/assets/2a12e47e-ceff-4c36-9948-deedf702d745)
